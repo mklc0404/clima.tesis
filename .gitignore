@@ -1,0 +1,12 @@
+*.env
+*create_tables.py
+*clima.py
+
+src/
+*config.py
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+.vscode/
